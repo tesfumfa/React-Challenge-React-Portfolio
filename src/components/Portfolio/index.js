@@ -1,10 +1,10 @@
 import React from 'react';
-import BudgetTracker from '../../assets/images/tesfa.jpg';
-import FoodieLove from '../../assets/images/tesfa.jpg';
-import ShopShop from '../../assets/images/tesfa.jpg';
-import WorkDay from '../../assets/images/tesfa.jpg';
-import Squid from '../../assets/images/tesfa.jpg';
-import Taskinator from '../../assets/images/tesfa.jpg';
+import BudgetTracker from '../../assets/images/budget_tracker.png';
+import Covid19Tracker from '../../assets/images/covid19-tracker.png';
+import MusicBattleSpotify from '../../assets/images/MusicBattleSpotify.png';
+import PortfolioTesfu from '../../assets/images/PortfolioTesfu.png';
+import NoteTaker from '../../assets/images/NoteTaker.png';
+import SocialNetworkAPI from '../../assets/images/SocialNetworkAPI.png';
 
 function Portfolio() {
     return (
@@ -25,7 +25,7 @@ function Portfolio() {
                         <a href="https://github.com/tesfumfa/assignment_challenge_19" target="_blank" rel="noopener noreferrer">
                             <button className="btn btn-primary">GitHub</button>
                         </a>
-                        <a href="https://pure-dusk-48925.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                        <a href="https://assignment-challenge-19.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                             <button className="btn btn-primary">Website</button>
                         </a>
                     </div>
@@ -35,16 +35,16 @@ function Portfolio() {
             <div class="col">
                 <div class="card">
                     <img
-                        src={FoodieLove}
-                        alt="foodieLove"
+                        src={ Covid19Tracker}
+                        alt=" Covid19Tracker"
                         class="card-img-top"
                     />
                     <div class="card-body">
-                        <p className="center">Foodie Love</p>
-                        <a href="https://github.com/jasongrossman/team-2" target="_blank" rel="noopener noreferrer">
+                        <p className="center">Covid 19 Tracker</p>
+                        <a href="https://github.com/tesfumfa/TM_Proj_one" target="_blank" rel="noopener noreferrer">
                             <button className="btn btn-primary">GitHub</button>
                         </a>
-                        <a href="https://jasongrossman.github.io/team-2/" target="_blank" rel="noopener noreferrer">
+                        <a href=" https://tesfumfa.github.io/TM_Proj_one/" target="_blank" rel="noopener noreferrer">
                             <button className="btn btn-primary">Website</button>
                         </a>
                     </div>
@@ -54,16 +54,16 @@ function Portfolio() {
             <div class="col">
                 <div class="card">
                     <img
-                        src={ShopShop}
-                        alt="shopShop"
+                        src={MusicBattleSpotify}
+                        alt="MusicBattleSpotify"
                         class="card-img-top"
                     />
                     <div class="card-body">
-                        <p className="center">Shop-Shop</p>
-                        <a href="https://github.com/TPhondeth/shop-shop" target="_blank" rel="noopener noreferrer">
+                        <p className="center">Music-Battle-Spotify</p>
+                        <a href="https://github.com/azuryte5/music-battle-spotify" target="_blank" rel="noopener noreferrer">
                             <button className="btn btn-primary">GitHub</button>
                         </a>
-                        <a href="https://mernshopshop.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                        <a href="https://music-battle-spotify.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                             <button className="btn btn-primary">Website</button>
                         </a>
                     </div>
@@ -73,16 +73,16 @@ function Portfolio() {
             <div class="col">
                 <div class="card">
                     <img
-                        src={WorkDay}
-                        alt="workDay"
+                        src={PortfolioTesfu}
+                        alt="PortfolioTesfu"
                         class="card-img-top"
                     />
                     <div class="card-body">
-                        <p className="center">Work Day Schedular</p>
-                        <a href="https://github.com/TPhondeth/challenge-week5" target="_blank" rel="noopener noreferrer">
+                        <p className="center">Portfolio Tesfu </p>
+                        <a href="https://github.com/tesfumfa/ch2_por" target="_blank" rel="noopener noreferrer">
                             <button className="btn btn-primary">GitHub</button>
                         </a>
-                        <a href="https://tphondeth.github.io/challenge-week5/" target="_blank" rel="noopener noreferrer">
+                        <a href="https://tesfumfa.github.io/ch2_por/" target="_blank" rel="noopener noreferrer">
                             <button className="btn btn-primary">Website</button>
                         </a>
                     </div>
@@ -92,16 +92,16 @@ function Portfolio() {
             <div class="col">
                 <div class="card">
                     <img
-                        src={Squid}
-                        alt="moolah"
+                        src={NoteTaker}
+                        alt="NoteTaker"
                         class="card-img-top"
                     />
                     <div class="card-body">
-                        <p className="center">The Squid Store</p>
-                        <a href="https://github.com/TPhondeth/the-squid-store" target="_blank" rel="noopener noreferrer">
+                        <p className="center">Note Taker</p>
+                        <a href="https://github.com/tesfumfa/ass_cha_9" target="_blank" rel="noopener noreferrer">
                             <button className="btn btn-primary">GitHub</button>
                         </a>
-                        <a href="https://thesquidstore.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                        <a href="https://ass-cha-9.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                             <button className="btn btn-primary">Website</button>
                         </a>
                     </div>
@@ -111,16 +111,16 @@ function Portfolio() {
             <div class="col">
                 <div class="card">
                     <img
-                        src={Taskinator}
-                        alt="taskinator"
+                        src={SocialNetworkAPI}
+                        alt="SocialNetworkAPI"
                         class="card-img-top"
                     />
                     <div class="card-body">
-                        <p className="center">Taskinator</p>
-                        <a href="https://github.com/TPhondeth/taskinator" target="_blank" rel="noopener noreferrer">
+                        <p className="center">Social Network API</p>
+                        <a href="https://github.com/tesfumfa/assignment_challenge_18" target="_blank" rel="noopener noreferrer">
                             <button className="btn btn-primary">GitHub</button>
                         </a>
-                        <a href="https://tphondeth.github.io/taskinator/" target="_blank" rel="noopener noreferrer">
+                        <a href="https://www.youtube.com/watch?v=5efi7Sq9iQU" target="_blank" rel="noopener noreferrer">
                             <button className="btn btn-primary">Website</button>
                         </a>
                     </div>
