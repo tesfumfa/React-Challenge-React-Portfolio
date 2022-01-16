@@ -43,9 +43,12 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3",
-    "mini-css-extract-plugin": "^2.5.0"
+    "mini-css-extract-plugin": "2.4.5"
   },
   "overrides": {
+    "mini-css-extract-plugin": "2.4.5"
+  },
+  "resolutions": {
     "mini-css-extract-plugin": "2.4.5"
   }
 }
