@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Challenge-React-Portfolio/static/css/main.d1167266.css",
+    "main.js": "/React-Challenge-React-Portfolio/static/js/main.7f489089.js",
+    "static/js/787.a0a0e031.chunk.js": "/React-Challenge-React-Portfolio/static/js/787.a0a0e031.chunk.js",
+    "static/media/resume.pdf": "/React-Challenge-React-Portfolio/static/media/resume.d8397ff2f53fa7000139.pdf",
+    "static/media/SocialNetworkAPI.png": "/React-Challenge-React-Portfolio/static/media/SocialNetworkAPI.4499133fcbe6657107f8.png",
+    "static/media/PortfolioTesfu.png": "/React-Challenge-React-Portfolio/static/media/PortfolioTesfu.7c2ea787c1be7bf4cdb5.png",
+    "static/media/covid19-tracker.png": "/React-Challenge-React-Portfolio/static/media/covid19-tracker.450abe064a4ab6b1b788.png",
+    "static/media/budget_tracker.png": "/React-Challenge-React-Portfolio/static/media/budget_tracker.ef810f4142431976fc9e.png",
+    "static/media/contact.png": "/React-Challenge-React-Portfolio/static/media/contact.015baecb3b11a657b620.png",
+    "static/media/tesfa.jpg": "/React-Challenge-React-Portfolio/static/media/tesfa.a30ca73be4d49ba71ded.jpg",
+    "static/media/MusicBattleSpotify.png": "/React-Challenge-React-Portfolio/static/media/MusicBattleSpotify.ab86001970277a30101f.png",
+    "static/media/NoteTaker.png": "/React-Challenge-React-Portfolio/static/media/NoteTaker.2dac9b1d6768fadaf187.png",
+    "index.html": "/React-Challenge-React-Portfolio/index.html",
+    "main.d1167266.css.map": "/React-Challenge-React-Portfolio/static/css/main.d1167266.css.map",
+    "main.7f489089.js.map": "/React-Challenge-React-Portfolio/static/js/main.7f489089.js.map",
+    "787.a0a0e031.chunk.js.map": "/React-Challenge-React-Portfolio/static/js/787.a0a0e031.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1167266.css",
+    "static/js/main.7f489089.js"
+  ]
+}
