@@ -38,7 +38,13 @@ WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) </p>
 <h2> Mock-Up</h2>
 <p>The following animation shows the web application's appearance and functionality:</p>
-<img src="../../assets/images/validation.png" alt=""/>
+<img src="./src/assets/images/validation.png" alt=""/>
+<h2> Submission</h2>
+<ul>
+ <li><a href="https://github.com/tesfumfa/React-Challenge-React-Portfolio/master/">Repo</a></li>
+ <li><a href="https://tesfumfa.github.io/React-Challenge-React-Portfolio/">website</a></li>
+</ul>
+
 
 
 
