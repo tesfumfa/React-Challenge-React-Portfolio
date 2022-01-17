@@ -41,7 +41,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 <img src="./src/assets/images/validation.png" alt=""/>
 <h2> Submission</h2>
 <ul>
- <li><a href="https://github.com/tesfumfa/React-Challenge-React-Portfolio/master/">Repo</a></li>
+ <li><a href="https://github.com/tesfumfa/React-Challenge-React-Portfolio/tree/master">Repo</a></li>
  <li><a href="https://tesfumfa.github.io/React-Challenge-React-Portfolio/">website</a></li>
 </ul>
 
